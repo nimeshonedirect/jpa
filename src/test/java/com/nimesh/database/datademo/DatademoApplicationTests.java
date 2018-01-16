@@ -1,4 +1,4 @@
-package com.nimesh.database.databasedemo;
+package com.nimesh.database.datademo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DatabaseDemoApplicationTests {
+public class DatademoApplicationTests {
 
 	@Test
 	public void contextLoads() {
